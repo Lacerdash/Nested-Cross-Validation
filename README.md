@@ -2,7 +2,7 @@
 
 Using scikit-learn `RandomizedSearchCV` and `cross_val_score` to create a Nested CV loop (model selection and hyperparameter tuning).
 
-![Nested_CV](Nested_CV.png)
+![Nested_CV](Nested_CV.png?raw=true#vitrinedev)
 
 ## Data
 
